@@ -1,0 +1,34 @@
+---
+canvas: "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/testtestimage/canvas/testtestimage-1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "test_comment",
+            "purpose": "commenting",
+            "creator": {
+                "id": "mariusstricker",
+                "name": "mariusstricker"
+            },
+            "created": "2022-03-28T07:06:18.588Z",
+            "modified": "2022-03-28T07:06:21.704Z"
+        }
+    ],
+    "target": {
+        "source": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/testtestimage/canvas/testtestimage-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"75.71874237060547,85.29383087158203 166.34375,136.2313232421875 94.78124237060547,167.1688232421875 43.218746185302734,102.48133087158203 58.218746185302734,92.79383087158203 61.968746185302734,89.98133087158203\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/testtestimage/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3ad7ee01-bed0-46e7-b801-5668c3f7794b.json",
+    "motivation": "commenting"
+}
