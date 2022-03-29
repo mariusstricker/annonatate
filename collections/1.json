@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "1",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-annotation annotationurl='https://mariusstricker.github.io/annonatate/annotations/3ad7ee01-bed0-46e7-b801-5668c3f7794b.json' manifesturl='https://mariusstricker.github.io/annonatate/img/derivatives/iiif/testtestimage/manifest.json'></iiif-annotation>",
+            "title": "Test",
+            "description": "Test-Description",
+            "thumbnail": ""
+        }
+    ]
+}
