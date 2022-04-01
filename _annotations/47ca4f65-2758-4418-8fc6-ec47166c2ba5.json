@@ -1,0 +1,45 @@
+---
+canvas: "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/testest1/canvas/testest1-1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Hand",
+            "purpose": "describing",
+            "creator": {
+                "id": "mariusstricker",
+                "name": "mariusstricker"
+            },
+            "created": "2022-04-01T07:40:27.840Z",
+            "modified": "2022-04-01T07:40:30.776Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Drache",
+            "purpose": "tagging",
+            "creator": {
+                "id": "mariusstricker",
+                "name": "mariusstricker"
+            },
+            "created": "2022-04-01T07:40:32.691Z",
+            "modified": "2022-04-01T07:40:33.325Z"
+        }
+    ],
+    "target": {
+        "source": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/testest1/canvas/testest1-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"575.0303039550781\" cy=\"265.8181686401367\" r=\"62.0089257007559\"></circle></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/testest1/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "47ca4f65-2758-4418-8fc6-ec47166c2ba5.json",
+    "motivation": "commenting"
+}
