@@ -1,0 +1,44 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00336-1911Bldg-May2017"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Windows (reflecting)",
+            "purpose": "describing",
+            "creator": {
+                "id": "mariusstricker",
+                "name": "mariusstricker"
+            },
+            "created": "2022-04-01T07:26:03.322Z",
+            "modified": "2022-04-01T07:26:14.406Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Architecture",
+            "creator": {
+                "id": "mariusstricker",
+                "name": "mariusstricker"
+            },
+            "created": "2022-04-01T07:26:18.176Z"
+        }
+    ],
+    "target": {
+        "source": "https://d.lib.ncsu.edu/collections/canvas/mc00336-1911Bldg-May2017",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2795.550048828125,1532.8135986328125 2921.004638671875,1750.995361328125 3228.27734375,1482.8135986328125 2980.095703125,1461.904541015625 2918.27734375,1525.5408935546875 2843.73193359375,1509.17724609375\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://d.lib.ncsu.edu/collections/catalog/mc00336-1911Bldg-May2017/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d94437fc-8d3b-4f64-8cec-c0061602201c.json",
+    "motivation": "commenting"
+}
