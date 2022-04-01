@@ -1,0 +1,45 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00336-1911Bldg-May2017"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Window",
+            "purpose": "describing",
+            "creator": {
+                "id": "mariusstricker",
+                "name": "mariusstricker"
+            },
+            "created": "2022-04-01T07:17:44.436Z",
+            "modified": "2022-04-01T07:17:52.135Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Architecture",
+            "purpose": "tagging",
+            "creator": {
+                "id": "mariusstricker",
+                "name": "mariusstricker"
+            },
+            "created": "2022-04-01T07:17:58.510Z",
+            "modified": "2022-04-01T07:18:01.745Z"
+        }
+    ],
+    "target": {
+        "source": "https://d.lib.ncsu.edu/collections/canvas/mc00336-1911Bldg-May2017",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"3063.3006591796875\" cy=\"1247.5447998046875\" r=\"169.33765266377011\"></circle></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://d.lib.ncsu.edu/collections/catalog/mc00336-1911Bldg-May2017/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1637d51f-21d2-483e-be05-7c3e10903ac7.json",
+    "motivation": "commenting"
+}
