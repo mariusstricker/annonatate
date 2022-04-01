@@ -1,0 +1,45 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00336-1911Bldg-May2017"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Door",
+            "purpose": "describing",
+            "creator": {
+                "id": "mariusstricker",
+                "name": "mariusstricker"
+            },
+            "created": "2022-04-01T07:23:37.627Z",
+            "modified": "2022-04-01T07:23:41.825Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Architecture",
+            "creator": {
+                "id": "mariusstricker",
+                "name": "mariusstricker"
+            },
+            "created": "2022-04-01T07:23:47.412Z"
+        }
+    ],
+    "target": {
+        "source": "https://d.lib.ncsu.edu/collections/canvas/mc00336-1911Bldg-May2017",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2605.550048828125,1782.8135986328125,211.818359375,260"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://d.lib.ncsu.edu/collections/catalog/mc00336-1911Bldg-May2017/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "01e07ab3-93de-4f67-acdc-2e318b03e7f8.json",
+    "motivation": "commenting"
+}
