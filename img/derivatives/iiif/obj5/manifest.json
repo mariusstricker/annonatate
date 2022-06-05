@@ -1,0 +1,82 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj5/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Echter Wunderklee"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "unknown"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      "Glasdia_5"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj5/canvas/obj5-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "obj5"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj5/obj5/full/165,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 7177,
+      "width": 5283,
+      "items": [
+        {
+          "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj5/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj5/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj5/obj5/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7177,
+                "width": 5283,
+                "service": [
+                  {
+                    "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj5/obj5",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj5/canvas/obj5-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
