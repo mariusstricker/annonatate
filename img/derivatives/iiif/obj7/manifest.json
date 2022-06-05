@@ -1,0 +1,82 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj7/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Einjahrs-Knäuelkraut"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "unknown"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      "Glasdia_7"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj7/canvas/obj7-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "obj7"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj7/obj7/full/170,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 7116,
+      "width": 5451,
+      "items": [
+        {
+          "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj7/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj7/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj7/obj7/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7116,
+                "width": 5451,
+                "service": [
+                  {
+                    "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj7/obj7",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj7/canvas/obj7-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
