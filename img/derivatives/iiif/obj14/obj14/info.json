@@ -1,0 +1,72 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj14//obj14",
+  "height": 7099,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 444,
+      "width": 334
+    },
+    {
+      "height": 222,
+      "width": 167
+    },
+    {
+      "height": 111,
+      "width": 83
+    },
+    {
+      "height": 55,
+      "width": 42
+    },
+    {
+      "height": 28,
+      "width": 21
+    },
+    {
+      "height": 14,
+      "width": 10
+    },
+    {
+      "height": 7,
+      "width": 5
+    },
+    {
+      "height": 3,
+      "width": 3
+    },
+    {
+      "height": 2,
+      "width": 1
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 512
+    }
+  ],
+  "width": 5338
+}
