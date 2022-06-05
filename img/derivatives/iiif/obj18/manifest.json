@@ -1,0 +1,82 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj18/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Grosse Kreuzblume"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "unknown"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      "Glasdia_18"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj18/canvas/obj18-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "obj18"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj18/obj18/full/170,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 7207,
+      "width": 5438,
+      "items": [
+        {
+          "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj18/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj18/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj18/obj18/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7207,
+                "width": 5438,
+                "service": [
+                  {
+                    "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj18/obj18",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj18/canvas/obj18-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
