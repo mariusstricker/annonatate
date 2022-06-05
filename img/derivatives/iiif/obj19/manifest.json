@@ -1,0 +1,82 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj19/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Heidelbeere"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "unknown"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      "Glasdia_19"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj19/canvas/obj19-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "obj19"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj19/obj19/full/167,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 7219,
+      "width": 5331,
+      "items": [
+        {
+          "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj19/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj19/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj19/obj19/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7219,
+                "width": 5331,
+                "service": [
+                  {
+                    "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj19/obj19",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj19/canvas/obj19-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
