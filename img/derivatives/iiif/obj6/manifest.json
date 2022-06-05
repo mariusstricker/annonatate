@@ -1,0 +1,82 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj6/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Echtes Labkraut"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "unknown"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      "Glasdia_6"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj6/canvas/obj6-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "obj6"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj6/obj6/full/175,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 7139,
+      "width": 5614,
+      "items": [
+        {
+          "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj6/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj6/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj6/obj6/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7139,
+                "width": 5614,
+                "service": [
+                  {
+                    "id": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj6/obj6",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://mariusstricker.github.io/annonatate/img/derivatives/iiif/obj6/canvas/obj6-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
